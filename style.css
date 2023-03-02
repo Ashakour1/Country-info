@@ -72,6 +72,6 @@ body{
 
 @media screen  and (max-width : 600){
     .container{
-        width: 130px;
+        width: 100px;
     }
 }
