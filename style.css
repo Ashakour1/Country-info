@@ -28,6 +28,7 @@ body{
     border: none;
     padding: 0 0 0.70em;
     border: none ;
+     width: 100%;
     border-bottom: 2px solid #579b89;
     outline: none;
 }
