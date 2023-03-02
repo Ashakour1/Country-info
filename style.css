@@ -72,6 +72,7 @@ body{
 
 @media screen  and (max-width : 600){
     .container{
-        width: 100px;
+        display: flex;
+        width: 200px;
     }
 }
