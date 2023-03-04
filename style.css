@@ -65,10 +65,9 @@ body{
     display: inline;
 }
 .container h5{
-    margin-left: 30px;
-    color: #c72b2b;
+    padding-top: 8px;
+    color: #579b89;
 }
-
 
 @media screen  and (max-width : 600px){
     .container{
