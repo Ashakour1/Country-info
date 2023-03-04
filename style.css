@@ -73,7 +73,7 @@ body{
 @media screen  and (max-width : 600px){
     .container{
         padding: 3em 2.5em;
-        width: 320px;
+        width: 300px;
     }
     .search-icon button{
         font-size: 15px;
