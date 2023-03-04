@@ -70,11 +70,16 @@ body{
 }
 
 
-@media screen  and (max-width : 600){
+@media screen  and (max-width : 600px){
     .container{
-        display: flex;
-        width: 200px;
-         margin-left: 20px;
-        margin-right: 20px;
+        padding: 3em 2.5em;
+        width: 320px;
+    }
+    .search-icon button{
+        font-size: 15px;
+        padding: 10px 5px;
+       
+        
+       
     }
 }
